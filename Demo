@@ -1,0 +1,44 @@
+`CodeAlpha_PhishingAwareness`
+```markdown
+# CodeAlpha_PhishingAwareness
+
+## 🚀 Overview
+A concise phishing awareness module created for the CodeAlpha Cyber Security Internship.  
+Contains a presentation, example phishing email screenshots, interactive quiz (HTML), and best-practice checklist.
+
+---
+
+## 🧩 What's Included
+- `presentation/Phishing_Awareness.pptx` — slide deck for training
+- `examples/` — screenshots of phishing vs legit examples (redacted)
+- `quiz/index.html` — small interactive quiz to test recognition skills
+- `docs/best_practices.md` — quick checklist for end-users
+
+---
+
+## 🖥 Demo: Run Quiz locally
+1. Open `quiz/index.html` in any browser.
+2. Follow the screenshots in `examples/` and answer quiz questions.
+
+---
+
+## 📝 Sample Topics (Slides)
+1. What is phishing?  
+2. Types: Email, Spear, Whaling, Vishing, Smishing  
+3. Red flags: Sender spoofing, bad grammar, unexpected attachments, mismatched links  
+4. Defensive steps: MFA, inspect links, report phishing, never enter creds on unknown pages  
+5. Quiz & examples
+
+---
+
+## 📌 Usage
+- Use in classroom or company awareness sessions.
+- Share on LinkedIn with demo video and GitHub link.
+
+---
+
+## ⚠️ Disclaimer
+This content is for awareness and education only. Do not replicate real phishing campaigns.
+
+## 🙌 Credits
+Prepared under CodeAlpha Cyber Security Internship.
